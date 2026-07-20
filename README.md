@@ -1,21 +1,41 @@
 # 👋 Hi, I'm Jegede Eniola Seun
 
-🎓 Computer Science Student
+## 🎓 About Me
 
-🐍 Python Developer (Beginner)
+- 🎓 Computer Science Student
+- 🐍 Python Developer (Beginner)
+- 💻 Learning Software Development
+- 🚀 Open to Internships
+- 🇳🇬 Based in Ondo State, Nigeria
 
-💻 Learning Software Development
-
-🚀 Open to Internships
-
-📚 Currently learning at ENIOLA TECH ACADEMY
+---
 
 ## 🌱 Currently Learning
+
 - Python
 - Git & GitHub
 - Problem Solving
+- Data Structures
 
-## 🎯 Goal
-To become a professional Software Engineer and build solutions that help people.
+---
 
-Thanks for visiting my profile! 😊
+## 🎯 2026 Goals
+
+- Build 20 Python projects
+- Become a Professional Software Engineer
+- Contribute to Open Source
+- Get my first internship
+- Help people with technology
+
+---
+
+## 🛠️ Technologies
+
+- Python
+- Git
+- GitHub
+- VS Code
+
+---
+
+⭐ Thanks for visiting my profile!
