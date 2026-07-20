@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Jegede Eniola Seun
 
-<!--
-**jegedeeniolaseun/jegedeeniolaseun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+🐍 Python Developer (Beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning Software Development
+
+🚀 Open to Internships
+
+📚 Currently learning at ENIOLA TECH ACADEMY
+
+## 🌱 Currently Learning
+- Python
+- Git & GitHub
+- Problem Solving
+
+## 🎯 Goal
+To become a professional Software Engineer and build solutions that help people.
+
+Thanks for visiting my profile! 😊
