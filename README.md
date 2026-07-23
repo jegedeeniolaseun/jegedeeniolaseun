@@ -62,11 +62,34 @@
 
 # 📂 Featured Projects
 
-- 🧮 Python Calculator
-- 🎯 Guess the Number Game
-- 🎓 Student Grade Management System
+## 🧮 Python Calculator
 
-🚀 More exciting projects coming soon...
+A command-line calculator built with Python for performing basic arithmetic operations.
+
+🔗 **Repository:**  
+https://github.com/jegedeeniolaseun/Python-Calculator
+
+---
+
+## 🎯 Guess the Number Game
+
+A Python game where players guess a randomly generated number with helpful hints.
+
+🔗 **Repository:**  
+https://github.com/jegedeeniolaseun/Guess-The-Number-Game
+
+---
+
+## 🎓 Student Grade Management System
+
+A Python application for managing student grades, validating input, calculating results, assigning grades, and generating reports.
+
+🔗 **Repository:**  
+https://github.com/jegedeeniolaseun/Student-Grade-Management-System
+
+---
+
+🚀 More software engineering projects coming soon...
 
 ---
 
@@ -82,7 +105,7 @@
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jegedeeniolaseun&theme=tokyonight" />
