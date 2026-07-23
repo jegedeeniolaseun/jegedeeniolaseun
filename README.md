@@ -1,36 +1,40 @@
-# 👋 Hi, I'm Jegede Eniola Seun
+# 👋 Hi, I'm Jegede Eniola Seun Enoch
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Python+Developer;Learning+Software+Development;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Python+Developer;Software+Engineer;Open+Source+Enthusiast;Building+Software+That+Solves+Real-World+Problems" />
 </p>
 
 ---
 
-## 🎓 About Me
+# 👨‍💻 About Me
 
 🎓 Computer Science Student at Adekunle Ajasin University (AAUA)
 
-🐍 Python Developer (Beginner)
+🐍 Python Developer
 
-💻 Learning Software Development every day
+💻 Passionate about building software that solves real-world problems
 
-🚀 Open to Internships and Collaboration
+🤖 Interested in Software Engineering, Artificial Intelligence, and Open Source
 
-🇳🇬 Based in Ondo State, Nigeria
+🤝 Open to internships, collaboration, and software development opportunities
+
+📍 Ondo State, Nigeria
 
 ---
 
-## 🌱 Currently Learning
+# 🛠️ Core Skills
 
 - Python
-- Git & GitHub
+- Git
+- GitHub
+- Visual Studio Code
 - Problem Solving
 - Data Structures
 - Object-Oriented Programming
 
 ---
 
-## 🛠️ Technologies
+# ⚙️ Technologies
 
 - Python
 - Git
@@ -39,32 +43,46 @@
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 Professional Goals
 
-- ✅ Build 20 Python Projects
-- 🎯 Become a Professional Software Engineer
-- 🌍 Contribute to Open Source
-- 💼 Get My First Internship
-- ❤️ Use Technology to Help People
-
----
-
-## 📌 Featured Projects
-
-Coming Soon...
-
-- Python Calculator
-- Student Grade System
-- Password Generator
-- To-Do App
-- Banking System
+- Build high-quality software projects
+- Contribute to Open Source
+- Secure a Software Engineering Internship
+- Build technology that solves real-world problems
+- Continuously improve as a software engineer
 
 ---
 
-## 📫 Connect With Me
+# 📌 Featured Projects
 
-📧 Email: **jegedeeniolaseun@gmail.com**
+- 🧮 Python Calculator
+- 🎯 Guess the Number Game
+- 🎓 Student Grade Management System
+
+More projects coming soon...
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# 📫 Connect With Me
+
+📧 **Email:**  
+jegedeeniolaseun@gmail.com
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/eniola-jegede-3a0a5b301
+
+🐙 **GitHub**  
+https://github.com/jegedeeniolaseun
+
+🐦 **X (Twitter)**  
+https://x.com/Kvng_Eniss
+
+📸 **Instagram**  
+https://instagram.com/kvng_eniss001
+
+🎵 **TikTok**  
+https://tiktok.com/@KVNGENISs
+
+---
+
+⭐ *"Code with purpose. Build with excellence. Never stop improving."*
