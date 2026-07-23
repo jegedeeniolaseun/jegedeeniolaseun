@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpeg" alt="Eniola Tech Academy Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Jegede Eniola Seun Enoch
 
 <p align="center">
